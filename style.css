@@ -1,0 +1,28 @@
+
+img {
+    width: 300px;
+}
+
+h1 {
+    color: #7469B6;
+}
+
+.menu {
+    background-color: #FF5BAE;
+}
+
+.menu h1 {
+    color: white;
+}
+
+.menu li {
+    color: white;
+}
+
+.kotak {
+    background-color: #FF5BAE;
+}
+.kotak h1{
+    font-size: 30px;
+    color: #FFFFFF;
+}
